@@ -1,0 +1,1 @@
+﻿New-Item .\new_file.txt -type file
